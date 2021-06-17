@@ -1,0 +1,3 @@
+[submodule "GaussianFits"]
+	path = GaussianFits
+	url = https://github.com/ChDoucet/GaussianFits.git
